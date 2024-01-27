@@ -1,0 +1,5 @@
+Preferí no instalar paquetes de unit testing comoPyTest
+ya que el email aclaraba que se prefería mantener la simpleza
+
+Para correr loss test:
+  py unit_testing.py o python unit_testing.py

@@ -1,0 +1,16 @@
+Agregué el checkbox "tamaño dinámico", por el siguiente motivo:
+
+A:
+  Hay dos formas de lograr que la imagen se muestre
+  como la pide en el último punto.
+
+  1: forzar el ancho al tamaño que mostraba en la img.
+  2: dejar un ancho dinámico, y usar un tamaño de pantalla de celular.
+
+  Como se podía referir a cualquiera de los dos, hice ambos.
+
+B:
+  El filtro de shows lo hace sobre los shows ya traidos de la API.
+  La forma correcta de hacerlo es mandando parámetros y filtrando en el backend.
+  Revisé la documentación de la API pero no encontré manera de filtrar por
+  género, así que realicé el filtro sobre la primera página.
